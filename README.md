@@ -2,6 +2,8 @@
 
 **找开源，先验活。** 需求先行的 GitHub 开源项目选型技能——先锚定需求，再三层品控验货，最后给出猎手洞见。
 
+> 本技能中文名：**昊哥-开源skill技能猎手**。GitHub 仓库名 `haoge-opensource-skill-hunter` 仅为平台技术标识（GitHub 不支持中文仓库名），转载、收录、引用请以中文名为准。
+
 ## 它解决什么问题
 
 - **星数会骗人**：星数最高的项目可能早停更了，装上就是坑。技能把"先验存活"放在评分前面——否决项扫描先于一切打分。
@@ -81,4 +83,4 @@ MIT，见 [LICENSE](LICENSE)。
 
 这个技能是我自己用出来的：让 AI 助手帮我找微信导出工具，8 个候选查死 7 个，星数最高的两个全死光——才长出"找开源，先验活"这条纪律。
 
-更多开源技能：[haoge-news-insight](https://github.com/gxh98/haoge-news-insight) · [haoge-open-source-launch](https://github.com/gxh98/haoge-open-source-launch)
+更多开源技能：[昊哥-新闻洞见](https://github.com/gxh98/haoge-news-insight) · [昊哥 · GitHub 开源发布流水线](https://github.com/gxh98/haoge-open-source-launch)
