@@ -83,4 +83,4 @@ MIT，见 [LICENSE](LICENSE)。
 
 这个技能是我自己用出来的：让 AI 助手帮我找微信导出工具，8 个候选查死 7 个，星数最高的两个全死光——才长出"找开源，先验活"这条纪律。
 
-更多开源技能：[haoge-news-insight](https://github.com/gxh98/haoge-news-insight) · [昊哥 · GitHub 开源发布流水线](https://github.com/gxh98/haoge-open-source-launch)
+更多开源技能：[昊哥-读新闻拿观点](https://github.com/gxh98/haoge-news-insight) · [昊哥 · GitHub 开源发布流水线](https://github.com/gxh98/haoge-open-source-launch) · [昊哥-产品起名就能卖](https://github.com/gxh98/haoge-product-naming)
